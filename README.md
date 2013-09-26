@@ -2,10 +2,13 @@
 
 Assets for https://github.com/silviomoreto/bootstrap-select - see it for details
 
-add to application.js and application.css something like
+add the following to application.js
 
     //= require bootstrap-select
 
+add the following to application.css
+
+		*= require bootstrap-select
 
 ## Installation
 
